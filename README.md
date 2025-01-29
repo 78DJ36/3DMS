@@ -2,4 +2,10 @@ Le GITHUB 3DMS est une plateforme communautaire permettant à chacun de partager
 
 IMPORTANT!
 
-Afin de garantir une organisation claire et une lisibilité optimale pour tous, il est impératif de respecter le format de nommage des fichiers indiqué. Tout fichier ne respectant pas cette norme pourra être supprimé afin de préserver la cohérence de la base de données.
+Afin de garantir une organisation claire et une lisibilité optimale pour tous, il est impératif de respecter le format de nommage des fichiers. Chaque fichier doit commencer par la catégorie du véhicule (600 ou 1000), suivie du chrono réalisé. Tout fichier ne respectant pas cette norme pourra être supprimé afin de préserver la cohérence de la base de données.
+
+Exemple pour le circuit du Mans
+
+Se rendre le répertoire du circuit du Mans
+
+1000-1.46.
